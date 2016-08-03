@@ -1,4 +1,3 @@
-layout_spectrum: 0.8682653594296426
 typography_spectrum: 0.7451847759075463
 color:
   brandStrength: 0.8022244260646403
@@ -11,5 +10,7 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
+layout_spectrum: 0.8682653594296426
 name: ImagingInFlight
+title: Ground & Aerial Imaging
 description: Your World from Our Point of View
