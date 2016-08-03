@@ -12,5 +12,9 @@ color:
     - '#CEAFC0'
 layout_spectrum: 0.8682653594296426
 name: ImagingInFlight
+navigation:
+  - name: Home
+    url: 'http://imaginginflight.com'
+    type: external
 title: Ground & Aerial Imaging
 description: Your World from Our Point of View
