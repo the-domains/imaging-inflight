@@ -1,0 +1,14 @@
+layout_spectrum: 0.8682653594296426
+typography_spectrum: 0.7451847759075463
+color:
+  brandStrength: 0.8022244260646403
+  lightness: 0.15185189596377313
+  saturation: 0.8996914569288492
+  rhythmicContrast: 0.42940919124521315
+  brandColors:
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
+name: Imaging InFlight
